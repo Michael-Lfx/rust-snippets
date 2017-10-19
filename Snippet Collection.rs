@@ -1,3 +1,5 @@
+/* COPYRIGHt 2017 Andrew Prindle <prindle.andrew<_at_>gmail.com> */
+
 /* To Reashearch
     Thin pointers vs Fat pointers
     Stopped reading the rustbyexample.com at attributes: rustbyexample.com/attribute/cfg.html
